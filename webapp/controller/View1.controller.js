@@ -6,7 +6,7 @@ function (Controller) {
 
     return Controller.extend("fioribuild.controller.View1", {
         onInit: function () {
-
+            	console.log("V1")
         }
     });
 });
